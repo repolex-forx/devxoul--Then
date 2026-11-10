@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/devxoul/Then/commit/21910ae00ddbb5378338bb288460cdd838f897df",
       "git:hexsha": "21910ae00ddbb5378338bb288460cdd838f897df",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/devxoul/Then/commit/c0368744390ac161298cfd965e709211c6a204c8",
